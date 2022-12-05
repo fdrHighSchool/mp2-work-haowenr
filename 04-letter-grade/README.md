@@ -9,8 +9,8 @@
 
 
 2. Discuss how you would make sure 100 is not misrepresented as an A-.
-  * **YOUR WRITING HERE**
+  I can make the program to count its total amount of substring and if its 3 unit its 100
 
 
 3. Discuss how you would make sure grades that are an F are not mislabeled as F- or F+ (eg: 49 -> F+ and 52 -> F-)
-  * **YOUR WRITING HERE**
+  If the returned number is under 65 make it give an F
