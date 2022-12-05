@@ -2,4 +2,4 @@
 #### Respond to the following:
 
 1. How do you isolate the ones digit of a number?
-  By finding its string unit/number
+  By finding its substring
